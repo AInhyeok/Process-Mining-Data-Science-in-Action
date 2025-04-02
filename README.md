@@ -46,6 +46,7 @@ This is the process mining course provided by Coursera
 
 ## Module 2 - Process Models and Process Discovery 
 ### Event Logs and Process Models
+- 
 ### Petri Nets
 ### Transition Systems, Petri & Workflow Nets, and Soundness
 ### Alpha Algorithm
