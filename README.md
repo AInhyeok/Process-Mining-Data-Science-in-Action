@@ -98,7 +98,11 @@ This is the process mining course provided by Coursera
 ### Review
 ### Optional Honors Content
 
+
 ## Module 5 - Enrichment of Process Models
+
+
+
 ## Module 6 - Operational Support and Conclusion
 ### Operational Support 
 ### Getting Event Data and Process Mining Software Overview
