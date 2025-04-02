@@ -72,6 +72,27 @@ This is the process mining course provided by Coursera
 
 ## Module 3 - Different Types of Process Models
 
+### Quality and Representational Bias
+- 3.1: Four Quality Criteria For Process Discovery
+- 3.2: On The Representational Bias of Process Mining
+- 3.3: Business Process Model and Notation (BPMN)
+- 3.4: Process Mining in the Large: Smart Data Scientist Are More Important Than Big Computers!
+
+### Dependency Graphs and Causal Nets
+- 3.4: Dependency Graphs and Causal Nets
+- 3.5: Learning Dependency Graphs
+- 3.6: Learning Causal nets and Annotating Them
+
+### Transition Systems and Concurrency
+- 3.7: Learning Transition Systems
+- 3.8: Using Regions to Discover Concurrency
+
+### Review
+- Quiz 3
+
+
+## Module 4 - Process Discovery Techniques and Conformance Checking
+
 ## Module 5 - Enrichment of Process Models
 ## Module 6 - Operational Support and Conclusion
 ### Operational Support 
