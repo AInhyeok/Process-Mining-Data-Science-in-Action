@@ -8,29 +8,28 @@ This is the process mining course provided by Coursera
 - Course Background and Practical Information
 - The Forum is your (Extended) Classroom
 
-## Data and Process Mining
+### Data and Process Mining
 - Process Mining: Data Science in Action Getting Started!
 - 1.1: Data Science and Big Data
 - 1.2: Different Types of Process Mining
 - 1.3: How Process Mining Relates to Data Mining
 
-## Decision Trees
+### Decision Trees
 - 1.4: Learning Decision Trees
 - 1.5: Applying Decision Trees
 - 1.6: Association Rule Leanring
 - [Extra] The data used in the lectures
 
-## Clustering and Association Rule Learning
+### Clustering and Association Rule Learning
 - How is Process Mining Different from Data Mining?
 - 1.7: Cluster Analysis
 - 1.8: Evaluating Mining Results
 
-## Review
+### Review
 - Quick Note Regarding Quizzes in this Course
 - Quiz1
 
-## (Optional, Not for points) Real-life Process Mining Session
+### (Optional, Not for points) Real-life Process Mining Session
 - Introducing Fluxicon & Disco
 - Real-life Process Mining Session
-- Real Life Session
-> The Demo Scenario
+  - Real Life Session
