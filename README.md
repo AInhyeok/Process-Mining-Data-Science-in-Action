@@ -93,6 +93,11 @@ This is the process mining course provided by Coursera
 
 ## Module 4 - Process Discovery Techniques and Conformance Checking
 ### Process Discovery 
+### Conformance Checking
+### Exploring Event Data
+### Review
+### Optional Honors Content
+
 ## Module 5 - Enrichment of Process Models
 ## Module 6 - Operational Support and Conclusion
 ### Operational Support 
