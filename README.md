@@ -32,4 +32,13 @@ This is the process mining course provided by Coursera
 ### (Optional, Not for points) Real-life Process Mining Session
 - Introducing Fluxicon & Disco
 - Real-life Process Mining Session
-  - Real Life Session
+- Real Life Session
+  - 01: The Demo Scenario
+  - 02: Process Discovery and Simplification
+  - 03: Statistics, CAses and Variants
+  - 04: Bottleneck Analysis
+  - 05: Compliance Analysis
+  - 06: Tip1 - Keep Copies of Your Analyses
+  - 07: Tip2 - Take Different Views on your Process
+  - 08: Tip3 - Exporting Results
+- Real-Life Process Mining Session Quiz (Not for points) 
