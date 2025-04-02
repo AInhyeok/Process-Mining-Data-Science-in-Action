@@ -33,4 +33,4 @@ This is the process mining course provided by Coursera
 - Introducing Fluxicon & Disco
 - Real-life Process Mining Session
 - Real Life Session
--   The Demo Scenario
+> The Demo Scenario
