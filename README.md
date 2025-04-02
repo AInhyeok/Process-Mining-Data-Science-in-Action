@@ -27,7 +27,7 @@ This is the process mining course provided by Coursera
 
 ### Review
 - Quick Note Regarding Quizzes in this Course
-- Quiz1
+- Quiz 1
 
 ### (Optional, Not for points) Real-life Process Mining Session
 - Introducing Fluxicon & Disco
@@ -46,16 +46,32 @@ This is the process mining course provided by Coursera
 
 ## Module 2 - Process Models and Process Discovery 
 ### Event Logs and Process Models
-- 
+- Using Event Data to Tear Down the Towers of Babel in Process Management
+- 2.1: Event Logs and Process Models
+
 ### Petri Nets
+- 2.2: Petri Nets (1/2)
+- 2.3: Petri Nets (2/2) 
+
 ### Transition Systems, Petri & Workflow Nets, and Soundness
+- 2.4: Transition Systems and Petri Net Properties
+- 2.5: Workflow Nets and Soundness
+
 ### Alpha Algorithm
+- 2.6: Alpha Algorithm: A Process Discovery Algorithm
+- 2.7: Alpha Algorithm: Limitations
+
 ### Intro to ProM and Disco
+- 2.8: Introducing ProM and Disco
+
 ### Review
+- Quiz 2
+
 ### Tool Quiz
+- Tool Quiz
 
 ## Module 3 - Different Types of Process Models
-## Module 4 - Process Discovery Techniques and Conformance Checking 
+
 ## Module 5 - Enrichment of Process Models
 ## Module 6 - Operational Support and Conclusion
 ### Operational Support 
