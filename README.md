@@ -41,4 +41,26 @@ This is the process mining course provided by Coursera
   - 06: Tip1 - Keep Copies of Your Analyses
   - 07: Tip2 - Take Different Views on your Process
   - 08: Tip3 - Exporting Results
-- Real-Life Process Mining Session Quiz (Not for points) 
+- Real-Life Process Mining Session Quiz (Not for points)
+
+
+## Module 2 - Process Models and Process Discovery 
+### Event Logs and Process Models
+### Petri Nets
+### Transition Systems, Petri & Workflow Nets, and Soundness
+### Alpha Algorithm
+### Intro to ProM and Disco
+### Review
+### Tool Quiz
+
+## Module 3 - Different Types of Process Models
+## Module 4 - Process Discovery Techniques and Conformance Checking 
+## Module 5 - Enrichment of Process Models
+## Module 6 - Operational Support and Conclusion
+### Operational Support 
+### Getting Event Data and Process Mining Software Overview
+### Conducting a Process Mining Project
+### Conclusion
+### Review
+### Final Quiz 
+
