@@ -100,7 +100,7 @@ This is the process mining course provided by Coursera
 
 
 ## Module 5 - Enrichment of Process Models
-
+### Decision Point Analysis
 
 
 ## Module 6 - Operational Support and Conclusion
